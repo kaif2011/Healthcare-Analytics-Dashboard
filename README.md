@@ -1,11 +1,12 @@
 # Healthcare-Analytics-Dashboard
 An interactive clinical performance dashboard designed to monitor patient volume, optimize treatment costs, and evaluate operational efficiency in healthcare delivery.
 
-📌 Project Overview
+## 📌 Project Overview
+
 This project focuses on transforming raw clinical data into actionable healthcare insights. The primary objective was to provide hospital administrators and medical leads with a 360-degree view of Patient Care Lifecycle—from admission trends to treatment cost analysis.
 By leveraging healthcare datasets, I built this dashboard to identify peaks in Patient Visits (10K) and analyze the financial impact of various treatments, which totaled $25.41M in costs. The project highlights key metrics like Average Treatment Cost ($2.54K) and Average Patient Age (48.94) to help healthcare providers make data-backed decisions for resource allocation and clinical staffing.
 
-🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 The dashboard was built using the following tools and technologies:
 - 📊 Power BI Desktop: Used for building an interactive healthcare clinical dashboard to monitor patient outcomes and operational costs.
